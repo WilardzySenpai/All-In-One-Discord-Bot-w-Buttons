@@ -11,11 +11,7 @@ Next after everything is complete run the bot and the bot will come online!! Yes
 * `Moderation` Ban and more over
 
 # Links
-**Go support us in [Bot Rewards](https://discord.gg/cARF3Dg3) and also [DiscordDevelopers](https://discord.gg/xVsADN2K) Our 2 small support servers!**
-
-## Credits
-**Credits here
-Neox And NarutoCodm
+**Go support us in [Bot Rewards](https://discord.gg/debYdxKWj7) and also [DiscordDevelopers](https://discord.gg/debYdxKWj7) Our 2 small support servers!**
 
 # Thank you
 ***Thank you for being a part of Pequin enjoy its commands etc!***
